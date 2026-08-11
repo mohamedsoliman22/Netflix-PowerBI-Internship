@@ -89,11 +89,29 @@ The complete Power BI dashboard is available here:
 [Power BI Project File](./Power%20BI%20Intern.pbix)
 
 Screenshots
+## Screenshots
 
+### Task 1 - Data Preparation
+![Task 1 Data Preparation](Screenshots/Task1_Data_Preparation.png)
+
+### Task 1 - Data Model
+![Task 1 Data Model](Screenshots/Task1_Data_Model.png)
+
+### Task 2 - Netflix Content Overview
+![Task 2 Overview](Screenshots/Task2_Overview.png)
+
+### Task 3 - Global Content Insights
+![Task 3 Global](Screenshots/Task3_Global.png)
+
+### Task 4 - Content Growth & Trend Analysis
+![Task 4 Growth](Screenshots/Task4_Growth.png)
+
+### Task 5 - Audience & Category Intelligence
+![Task 5 Audience](Screenshots/Task5_Audience.png)
 Dashboard screenshots are available in the `Screenshots` folder.
 
 Author
 
-**Mohamed Soliman**
+Mohamed Soliman
 
 Data Analysis Internship Project
